@@ -42,5 +42,5 @@ Výstupní statické soubory se vygenerují do složky `dist/`. Na hostingu je p
 - **Dokončeno:** **Fáze T4 – Příprava a prostředí**
   - Založen čistý React + TypeScript + Vite + Tailwind projekt.
   - Připravena konfigurace prostředí pro Spotify Web API (`.env.example`, `vite-env.d.ts`).
-  - Vytvořena úvodní status obrazovka s kontrolou prostředí a připraveným deployem.
+  - Vytvořena úvodní obrazovka se zamčeným buttonem pro přihlášení.
 - **Další krok (T5):** Implementace přihlášení uživatele přes Spotify OAuth 2.0.
